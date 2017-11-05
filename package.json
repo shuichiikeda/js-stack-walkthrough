@@ -1,0 +1,12 @@
+{
+  "name": "js-stack-walkthrough",
+  "version": "1.0.0",
+  "description": "Learning Javascript",
+  "main": "index.js",
+  "author": "shuichi.ikeda",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {}
+}
